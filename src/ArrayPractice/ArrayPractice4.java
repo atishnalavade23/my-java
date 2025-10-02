@@ -1,4 +1,4 @@
-package Array;
+package ArrayPractice;
 
 //Reverse the array
 public class ArrayPractice4 {

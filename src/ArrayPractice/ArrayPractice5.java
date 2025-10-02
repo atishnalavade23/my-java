@@ -1,4 +1,4 @@
-package Array;
+package ArrayPractice;
 
 
 //Search The Number from the list

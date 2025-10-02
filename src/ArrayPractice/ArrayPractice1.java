@@ -1,4 +1,4 @@
-package Array;
+package ArrayPractice;
 //Find the Max and Min From list of Array
 
 public class ArrayPractice1 {

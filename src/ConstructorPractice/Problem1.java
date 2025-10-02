@@ -1,7 +1,7 @@
 package ConstructorPractice;
 //Student Info (Default Constructor)
 //Create a class Student with attributes name and age.
-//Use a default constructor to set name = "Unknown" and age = 18.
+//Use a default constructor to set name = "Atish" and age = 24.
 //Print the values by creating an object.
 
 public class Problem1 {

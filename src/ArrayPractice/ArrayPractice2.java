@@ -1,4 +1,4 @@
-package Array;
+package ArrayPractice;
 
 
 //Find the sum of All numbers from array
