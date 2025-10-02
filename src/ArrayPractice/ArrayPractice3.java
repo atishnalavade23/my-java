@@ -1,4 +1,4 @@
-package Array;
+package ArrayPractice;
 
 
 //Count the Even and odd Numbers
