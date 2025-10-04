@@ -6,6 +6,7 @@ package ConstructorPractice;
 //Constructor 2: Accepts two arguments to initialize length and breadth.
 //Add methods area() and perimeter().
 //Create objects using both constructors and display area and perimeter.
+
 public class Problem3 {
 
     int length;
@@ -19,14 +20,16 @@ public class Problem3 {
         length = l;
         breadth = b;
     }
-//    Method to create area and parameter
+//Method to create area and parameter
 
     int area(){
+
         return length*breadth;
     }
 
     int perimeter(){
-        return 2 *(length+breadth);
+
+        return 2*(length+breadth);
     }
 
     public static void main(String[] args) {

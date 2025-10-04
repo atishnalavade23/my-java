@@ -11,6 +11,4 @@ public class Problem2 {
             System.out.println("Odd Number");
         }
     }
-
-
 }

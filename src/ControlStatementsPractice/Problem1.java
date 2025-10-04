@@ -11,7 +11,7 @@ public class Problem1 {
         } else if (num<0) {
             System.out.println("Negative");
 
-        }else{
+        } else{
             System.out.println("Zero");
         }
     }
